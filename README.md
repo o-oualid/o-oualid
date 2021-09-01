@@ -5,5 +5,5 @@
    -  I like watching anime reading manga and playing video games.
 - ### Tech Stack:
     - C++ | Unreal Engine
-    - Rider for Unreal Engine| Visual Studio code | Git
+    - Rider for Unreal Engine | Visual Studio code | Git
     - Blender | Quixel
