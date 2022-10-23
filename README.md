@@ -1,9 +1,8 @@
-### Hey there! I am Oualid.
+### Hello, I am Oualid.
 - ### About Me:
-   -  I am currently learning and making games with Unreal Engine.
-   -  I study Computer Science, programming and mathematics.
-   -  I like watching anime reading manga and playing video games.
+   -  I make video games with Unreal Engine.
+   -  I study computer science.
 - ### Tech Stack:
     - C++ | Unreal Engine
-    - Rider for Unreal Engine | Visual Studio code | Git
+    - Rider | Fleet | Git | Perforce
     - Blender | Quixel
